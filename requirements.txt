@@ -1,0 +1,8 @@
+flask
+nltk
+textblob
+tensorflow
+keras
+requests
+spotipy
+deepface
